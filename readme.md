@@ -39,6 +39,7 @@ Este enfoque fue elegido porque permite:
 Cada microservicio tiene una responsabilidad clara y se comunica con el resto de forma controlada.
 
 ---
+![Arquitectura del Sistema de Reservas](./solucion_arquitectura.png)
 
 ## 4. Descripción general de la arquitectura
 
@@ -196,18 +197,7 @@ La arquitectura propuesta resuelve el problema planteado de forma sólida y esca
 - Seguridad desde el diseño.
 - Facilidad de mantenimiento.
 - Capacidad de evolución.
-
-Esta solución refleja un enfoque **semi senior**, donde la arquitectura no solo responde a los requerimientos actuales, sino que está preparada para el crecimiento y la adaptación futura.
-
----
-
-## 11. Valor del proyecto
-
-Este proyecto demuestra habilidades en:
-
-- Diseño de arquitecturas cloud modernas.
-- Uso justificado de microservicios.
-- Pensamiento orientado a escalabilidad y seguridad.
-- Comunicación clara de decisiones técnicas.
+,
+Esta solución refleja un enfoque donde la arquitectura no solo responde a los requerimientos actuales, sino que está preparada para el crecimiento y la adaptación futura.
 
 La solución fue **diseñada y documentada por Nathalie Carrasco**, como parte de su portafolio profesional en arquitectura cloud y sistemas escalables.
